@@ -4,4 +4,4 @@ index = -1 #list index control variable
 
 for item in alphabet_lower or alphabet_upper:
   print(alphabet_lower[index],alphabet_upper[index])
-  index = index - 1 
+  index = index - 1  
