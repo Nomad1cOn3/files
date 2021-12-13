@@ -1,5 +1,5 @@
 import random,os,time
-lent = []
+lent = [] 
 with open('sowpods.txt') as f:
     words = f.readlines()
 with open('numbers.txt') as f:
