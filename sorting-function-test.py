@@ -9,4 +9,4 @@ for x in range(1,10):
     except:
         list2.append(l)
 print(sorted(list1))
-print(sorted(list2))
+print(sorted(list2)) 
