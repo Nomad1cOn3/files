@@ -1,7 +1,7 @@
 l=int(input('Is this number odd or even?: '))
 def l1():
     if l%2==0:
-        print('yes')
+        print('even')
     else:
-        print('no')
+        print('odd')
 l1()
